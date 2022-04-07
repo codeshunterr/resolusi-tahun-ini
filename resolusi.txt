@@ -1,3 +1,5 @@
 belajar web dev
 belajar andro 
 data analytics
+flutter
+phyton
